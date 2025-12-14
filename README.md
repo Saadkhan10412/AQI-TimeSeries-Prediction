@@ -85,3 +85,5 @@ streamlit run app.py
 
 
 The application will open in your default web browser.
+
+### MODEL is excluded due to github filesize limit it is available on request.
