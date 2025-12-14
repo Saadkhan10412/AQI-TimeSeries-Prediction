@@ -62,10 +62,8 @@ The following features were engineered to capture AQI trends over time:
 AQI_TimeSeries_Forecasting_ML
 │
 ├── app.py # Streamlit application
-├── aqi_model.pkl # Trained Random Forest model
 ├── city_encoder.pkl # Saved LabelEncoder for city feature
 ├── aqi.csv # Dataset used for training and inference
-├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 ```
 ---
